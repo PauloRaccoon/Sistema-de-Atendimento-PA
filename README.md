@@ -81,5 +81,6 @@ Posição: Escolha uma posição para o seu chamado na fila
 - [@Estevão Souza](https://github.com/EstevaoSouza-ops)
 - [@Jasmine](https://github.com/Jasmineggril)
 - [@Lucas Vinicius](https://github.com/JamalBalanga)
+- [@Joao Enomoto](https://github.com/enoGuarana)
 
 ![](https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)
