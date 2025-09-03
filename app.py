@@ -21,10 +21,11 @@ class App(ctk.CTk):
         self.chamado_selecionado = None
 
         # Adicionando dados de teste
-        self.lista_ativos.adicionar("Ana Silva", "Impressora não funciona", "Alta")
+        """self.lista_ativos.adicionar("Ana Silva", "Impressora não funciona", "Alta")
+        print(historico)
         self.lista_ativos.adicionar("Beto Costa", "PC muito lento", "Média")
         self.lista_ativos.adicionar("Carlos Dias", "Email não envia", "Baixa")
-        self.lista_ativos.adicionar("Daniela Faria", "Monitor com listras", "Alta")
+        self.lista_ativos.adicionar("Daniela Faria", "Monitor com listras", "Alta")"""
 
         # --- 2. Configuração do Grid (Layout) ---
         self.grid_columnconfigure(0, weight=2)
